@@ -1,49 +1,53 @@
-,Artist,Album Title,Year
-0,2:54,2:54,2012
-1,Alanis Morissette,Jagged Little Pill,1995
-2,Anne Linnet Band,Anne Linnet Band,1981
-3,"Beach Boys, The",Pet Sounds,1966
-4,"Beaches, The",Blame My Ex,2023
-5,Blondie,The Hunter,1982
-6,Capital Cities,In a Tital Wave of Mystery,2013
-7,Carpenters,Close to You,1970
-8,Cavetown,Lemon Boy,2018
-9,DWNTWN,Racing Time,2017
-10,Eagles,Hotel California,1976
-11,Ed Sheeran,Songs I Wrote with Amy,2010
-12,Electric Light Orchestra,All Over the World: The Very Best of Electric LIght Orchestra,2005
-13,Filthy Friends,Invitation,2017
-14,First Aid Kit,The Lion's Roar,2012
-15,Fleetwood Mac,Then Play On,1969
-16,Fleetwood Mac,Rumours,1977
-17,Fleetwood Mac,Tusk,1979
-18,Foo Fighters,The Color and the Shape,1997
-19,Fruit & Flowers,Drug Tax,2017
-20,Heart,Dreamboat Annie,1975
-21,Janis Joplin,Pearl,1970
-22,"Jimi Hendrix Experience, The",Axis: Bold as Love,1967
-23,Joan Jett and the Blackhearts,I Love Rock 'n Roll,1981
-24,Joni Mitchell,Blue,1971
-25,Kim Larsen,Midt om Natten,1983
-26,Kim Larsen & Bellami,Forklædt som Voksen,1986
-27,Led Zeppelin,Led Zeppelin IV,1971
-28,Moonbeau,Moonbeau,2018
-29,Neville Marriner,Amadeus: Original Soundtrack Recording,1984
-30,Nirvana,Nevermind,1991
-31,Paramore,After Laughter,2017
-32,Paul Simon,Graceland,1986
-33,"Pauses, The",A Cautionary Tale,2011
-34,Pink Floyd,Dark Side of the Moon,1973
-35,Pink Floyd,Meddle,1971
-36,Pink Floyd,The Piper at the Gates of Dawn,1967
-37,Pink Floyd,Wish You Were Here,1975
-38,"Pretenders, The",Learning to Crawl,1984
-39,Simon and Garfunkel,The Concert in Central Park,1982
-40,Soccer Mommy,Clean,2018
-41,Stevie Nicks,The Wild Heart,1983
-42,Stonefield,"As Above, So Below",2017
-43,Tom Petty and the Heartbreakers,Damn the Torpedoes,1979
-44,"Tragically Hip, The",Fully Completely,1992
-45,"Tragically Hip, The",Road Apples,1991
-46,"Tragically Hip, The",Up to Here,1989
-47,Umii,This Time,2017
+Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,Artist,Album Title,Year
+0,0,0.0,2:54,2:54,2012
+1,1,1.0,Alanis Morissette,Jagged Little Pill,1995
+2,2,2.0,Anne Linnet Band,Anne Linnet Band,1981
+3,3,3.0,"Beach Boys, The",Pet Sounds,1966
+4,4,4.0,"Beaches, The",Blame My Ex,2023
+5,5,5.0,Blondie,The Hunter,1982
+6,6,6.0,Capital Cities,In a Tital Wave of Mystery,2013
+7,7,7.0,Carpenters,Close to You,1970
+8,8,8.0,Cavetown,Lemon Boy,2018
+9,9,,"Cranberries, The","Everybody Else is Doing It, So Why Can't We?",1993
+10,10,9.0,DWNTWN,Racing Time,2017
+11,11,10.0,Eagles,Hotel California,1976
+12,12,11.0,Ed Sheeran,Songs I Wrote with Amy,2010
+13,13,12.0,Electric Light Orchestra,All Over the World: The Very Best of Electric LIght Orchestra,2005
+14,14,13.0,Filthy Friends,Invitation,2017
+15,15,14.0,First Aid Kit,The Lion's Roar,2012
+16,16,15.0,Fleetwood Mac,Then Play On,1969
+17,17,16.0,Fleetwood Mac,Rumours,1977
+18,18,17.0,Fleetwood Mac,Tusk,1979
+19,19,,Fleetwood Mac,"Dance, The",1997
+20,20,18.0,Foo Fighters,The Color and the Shape,1997
+21,21,19.0,Fruit & Flowers,Drug Tax,2017
+22,22,20.0,Heart,Dreamboat Annie,1975
+23,23,21.0,Janis Joplin,Pearl,1970
+24,24,22.0,"Jimi Hendrix Experience, The",Axis: Bold as Love,1967
+25,25,23.0,Joan Jett and the Blackhearts,I Love Rock 'n Roll,1981
+26,26,24.0,Joni Mitchell,Blue,1971
+27,27,25.0,Kim Larsen,Midt om Natten,1983
+28,28,26.0,Kim Larsen & Bellami,Forklædt som Voksen,1986
+29,29,27.0,Led Zeppelin,Led Zeppelin IV,1971
+30,30,,Leonard Cohen,Greatest Hits,1975
+31,31,,Linda Ronstadt,Simple Dream,1977
+32,32,28.0,Moonbeau,Moonbeau,2018
+33,33,29.0,Neville Marriner,Amadeus: Original Soundtrack Recording,1984
+34,34,30.0,Nirvana,Nevermind,1991
+35,35,31.0,Paramore,After Laughter,2017
+36,36,32.0,Paul Simon,Graceland,1986
+37,37,33.0,"Pauses, The",A Cautionary Tale,2011
+38,38,35.0,Pink Floyd,Meddle,1971
+39,39,36.0,Pink Floyd,The Piper at the Gates of Dawn,1967
+40,40,37.0,Pink Floyd,Wish You Were Here,1975
+41,41,34.0,Pink Floyd,Dark Side of the Moon,1973
+42,42,38.0,"Pretenders, The",Learning to Crawl,1984
+43,43,39.0,Simon and Garfunkel,The Concert in Central Park,1982
+44,44,40.0,Soccer Mommy,Clean,2018
+45,45,41.0,Stevie Nicks,The Wild Heart,1983
+46,46,42.0,Stonefield,"As Above, So Below",2017
+47,47,43.0,Tom Petty and the Heartbreakers,Damn the Torpedoes,1979
+48,48,44.0,"Tragically Hip, The",Fully Completely,1992
+49,49,45.0,"Tragically Hip, The",Road Apples,1991
+50,50,46.0,"Tragically Hip, The",Up to Here,1989
+51,51,47.0,Umii,This Time,2017
